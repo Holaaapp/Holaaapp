@@ -1,0 +1,14 @@
+p {
+    background-color: blueviolet ;
+}        
+a, video {
+    display:block
+}
+
+video {
+    width: 50%; margin: auto;
+}
+.aa {
+    border-radius: 50%;
+    width: 300px; height: 300px;
+}
